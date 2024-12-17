@@ -1,7 +1,7 @@
 # CarThing-CAD
 A repository for CAD models related to the Spotify Car Thing.
 
-Car Thing Models
+Car Thing CAD Model Drawing
 ![CarThing](/ReadMe_Images/carthing.png)
 
 - **Spotify Car Thing** - Replicated CAD Model of the Spotify Car Thing
